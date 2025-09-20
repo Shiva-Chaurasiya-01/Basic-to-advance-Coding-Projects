@@ -1,0 +1,82 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+bower_components/
+
+# Build output
+build/
+coverage/
+tmp/
+temp/
+out/
+.cache/
+.parcel-cache/
+.next/
+.svelte-kit/
+__pycache__/
+*.pyc
+
+# Misc
+*.tgz
+*.zip
+*.tar
+*.rar
+*.7z
+*.bak
+*.tmp
+*.pid
+*.seed
+*.pid.lock
+
+# IDE specific
+*.iml
+*.ipr
+*.iws
+
+# MacOS
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Test output
+junit.xml
+test-results/
